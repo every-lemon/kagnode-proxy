@@ -1,3 +1,7 @@
+# 5.0.5 (unreleased)
+
+- Fixed for 5.0.5
+
 ## 5.0.4 — release preparation
 
 - Rename the visible product name from KagNode. PM to KagNode. Proxy in the interface, login, page titles, documentation and artwork text. The GitHub repository is `kagnode-proxy`; package names, the `kagnode-pm` command, installed paths, API paths, signed manifests and published release assets keep their compatibility identifiers.
